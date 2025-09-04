@@ -78,7 +78,7 @@
 &kp ESCAPE  &kp EXCL  &kp AT    &kp HASH      &kp DLLR  &kp PRCNT                            &mmv MOVE_UP                     &kp CARET  &kp AMPS  &kp ASTRK   &kp LPAR  &kp RPAR          &kp BSPC
 &kp LSHFT   &kp HOME  &kp CAPS  &none         &none     &kp MINUS            &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &none      &none     &none       &none     &kp END           &kp GRAVE
 &kp LCTRL   &kp TAB   &none     &none         &none     &kp EQUAL  &trans                    &mmv MOVE_DOWN                   &none      &none     &none       &none     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-                                &kp LEFT_WIN  &trans    &kp ENTER                                                             &kp SPACE  &trans    &kp DELETE
+                                &kp LEFT_WIN  &mo 3     &kp ENTER                                                             &kp SPACE  &trans    &kp DELETE
             >;
 
             sensor-bindings = <&scroll_encoder>;
