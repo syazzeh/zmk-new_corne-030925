@@ -142,7 +142,7 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - LEFT WIN
-  - {t: '$$mdi:transfer$$', type: trans}
+  - NUMBER
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {type: held}
